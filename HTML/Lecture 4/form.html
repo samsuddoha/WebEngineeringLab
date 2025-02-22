@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Student Registration Form</h1>
+    <form action="" method="post">
+        <label for="">Name</label>
+        <input type="text" placeholder="Enter your name" name="nam" required> <br><br>
+        <label for="">Email</label>
+        <input type="email" placeholder="Enter your email" name="email"> <br><br>
+        <label for="">Password</label>
+        <input type="password" placeholder="Enter your pass" name="pass" required> <br><br>
+        
+        <!-- radio button -->
+        <label for="">Gender</label>
+        <input type="radio"  name="gender" value="male"> Male
+        <input type="radio"  name="gender" value="female"> Female <br> <br>
+
+        <!-- dropdown option of department using select -->
+        <label for="">Department</label>
+        <select name="dept" >
+            <option value="cse"> CSE   </option>
+            <option value="">MATH</option>
+            <option value="">MGT</option>
+            <option value="">BAN</option>
+        </select> <br><br>
+
+        <label for="">Skills</label>
+        <input type="checkbox" name="skill" value="java"> Java
+        <input type="checkbox" name="skill" value="python"> Python
+        <input type="checkbox" name="skill" value="Php">PHP  <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+</body>
+</html>

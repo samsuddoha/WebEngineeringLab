@@ -1,0 +1,19 @@
+1. basic Structure of HTML
+2. Elements of HTML
+3. Attributes of HTML
+4. Paragraph
+5. Headings
+6. Formatting
+7. Colors
+8. CSS/Styles
+9. Quotation
+10. Comment
+11. Lists
+12. Images
+13. Link/Hyperlink/Anchor Tag
+14. Table
+15. Favicon, title
+16. Block & Inline Elements
+17. Div & Span
+18. Entities, Symbols & Emojis
+19. forms
