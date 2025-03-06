@@ -29,7 +29,7 @@ Exams
 |Midterm Lab  2 | 10% | TBA | Full Stack Technology |TBA|
 |Final Exam  | 25% | TBA | Full Stack Technology |TBA|
 |Viva | 5% | TBA | Web technology |TBA|
-|Project| 20% | TBA | Web Project |TBA|
+|Project| 20% | TBA | Web Project based on Full Stack Technology|TBA|
 
 Project
 ---
