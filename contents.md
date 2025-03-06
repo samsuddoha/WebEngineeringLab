@@ -34,8 +34,8 @@ Exams
 Project
 ---
 
-|Task| Deadline| Instructions | Resources|
-|-----------|-------|-----------------|------------|---------|
+|Tasks | Deadline| Instructions | Resources|
+|-----|------------|------------|------------|
 |Team Formation & <br> Project Idea submission| 9 March | TBA | N/A |
 |Project Proposal Submission| TBA| TBA | TBA |
 |Project Progress 1| TBA| TBA | TBA |
