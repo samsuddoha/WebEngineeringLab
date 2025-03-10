@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Lecture 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <style>
+        h3{
+            text-align: center;
+            border-bottom: 2px solid maroon;
+            width: 30%;
+            margin: 40px auto;
+        }
+            /*table*/
+        table, th, td{
+            border-collapse: collapse;
+        }
+        th, td{
+            border:1px solid #a2a2b5;
+            padding: 15px;
+        }
+        table{
+            width:100%;
+        }
+        th{
+            background-color: #15a148;
+            color: white;
+        }
+        table tr:nth-child(even){
+            background-color: #a2a2b5;
+        }
+        table tr:hover{
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>computer science and Engineering</h1>
+        <h2>University of Barishal</h2>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                 <a href="about.html">About</a>
+                </li>
+            <li>
+                <a href="notice.html">Notice</a>
+            </li>
+            <li>
+                <a href="program.html">Programs</a>
+            </li>
+            <li>
+                <a href="gallery.html">Photo Gallery</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        
+        <h3 class="h3-head">List of regular courses</h3>
+        <table>
+            <tr>
+                <th>Serial</th>
+                <th>Course title</th>
+                <th>Course code</th>
+                <th>Credits</th>
+                <th>course type</th>
+                <th>Remarks</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Computer Programming</td>
+                <td>CSE-1101</td>
+                <td>3</td>
+                <td>Theory</td>
+                <td>BSc</td>
+            </tr>
+            <tr >
+                <td>2</td>
+                <td>Data Structure</td>
+                <td>CSE-1102</td>
+                <td>3</td>
+                <td>Theory</td>
+                <td>BSc</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Operating System</td>
+                <td>CSE-1203</td>
+                <td>3</td>
+                <td>Theory</td>
+                <td>BSc</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Mobile App Development</td>
+                <td>CSE-2303</td>
+                <td>1.5</td>
+                <td>Lab</td>
+                <td>BSc</td>
+            </tr>
+
+            <tr>
+                <td>5</td>
+                <td>Simulation and Modeling</td>
+                <td>CSE-3209</td>
+                <td>3</td>
+                <td>Theory</td>
+                <td>BSc</td>
+            </tr>
+
+        </table>
+        
+    </main>
+    <footer>
+        &copy; CSE, 2025
+    </footer>
+
+</body>
+</html>
