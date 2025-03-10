@@ -1,16 +1,25 @@
 # Web Engineering Lab (CSE-2210)  
-### Contents
+### Course Contents, Exam Schedule and Project Guidelines
 
 ---
 
 ## HTML Contents
+---
+| Lectures | No of Sessions | Contents | Remarks |
+|----------|-----------------|----------|---------|
+| Lecture 1   | 2 | Introduction of Web   | Basic   |
+| Lecture 2  | 2 |  <ul> <li>Intro to HTML </li> <li>Structure of HTML</li> <li>Elements </li> <li>Attributes </li> <li> Headings </li> <li>Paragraph</li> <li>Formatting</li> <li>Quotations</li> <li>Comments</li> </ul>  | L2   |
+| Lecture 3   | 2 | <ul> <li>Styles </li> <li>Colors</li> <li>Links </li>  <li>Images</li> <li>Tables</li> <li>List</li> <li>Favicon, Title </li> </ul>   | [L3 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%203)   |
+| Lecture 4 | 2 | <ul> <li>Inline & Block </li> <li>Div & Span</li> <li> HTML Layout</li> <li>Entities Symbols, Emojis</li> <li> **HTML Forms** </li> </ul>| [L4 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%204)|
 
-| Lectures | Contents | Remarks |
-|----------|----------|----------|
-| Lecture 1   | Introduction of Web   | Basic   |
-| Lecture 2  | Intro to HTML, Structure of HTML, Elements, Attributes, Headings, Paragraph, Formatting, Quotations, Comments   | L2   |
-| Lecture 3   | Styles, Colors, Links, Images, Tables, List, Favicon, Title,    | [L3 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%203)   |
-| Lecture 4 | Inline & Block, Div & Span, Layout, Entities, Symbols, Emojis, **HTML Forms** | [L4 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%204)|
+## CSS Contents
+---
+
+| Lectures and Topics | No of Sessions | Contents | Resources |
+|---------------------|----------------|----------|-----------|
+| <b>Lecture 1 </b>| 2 |<ul> <li>Introduction to CSS </li> <li>How to add CSS</li> <li> CSS Syntax<li> <li>CSS Selectors</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%201/CSS%20Lecture%201.pdf)   |
+
+
 
 Exams
 ---
