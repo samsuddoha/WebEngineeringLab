@@ -17,8 +17,9 @@
 
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
-| <b>Lecture 1 </b>| 2 |<ul> <li>Introduction to CSS </li> <li>How to add CSS</li> <li> CSS Syntax<li> <li>CSS Selectors</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%201/CSS%20Lecture%201.pdf)   |
-
+| <b>Lecture 1 </b>| 2 |<ul> <li>Introduction to CSS </li> <li>How to add CSS</li> <li> CSS Syntax</li> <li>CSS Selectors</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%201/CSS%20Lecture%201.pdf)   |
+| <b>Lecture 2 </b>| 2 |<ul> <li>CSS Box Model</li> <li>CSS Marging, Border & Padding</li> <li> CSS Height, Width & max-width</li> <li>CSS Outline</li> <li>CSS Font, Text, Font Family, Google Font</li> <li>CSS List</li><li>CSS Table</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%202/CSS%20Lecture%202.pdf) [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/CSS/Lecture%202/CSS_Lec2)   |
+| <b>Lecture 3 </b>| 2 |<ul> <li>CSS List</li><li>CSS Table</li> <li> Image & Image Gallery </li> <li> CSS design Practice </li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%203/CSS%20Lecture%203.pdf) [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/CSS/Lecture%203/css_lec3)   |
 
 
 Exams
