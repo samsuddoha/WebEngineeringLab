@@ -31,7 +31,7 @@ Exams
 |Homework 1| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework%201/Homework%201_HTML.pdf)|
 |Homework 2| - | 11 Mar 25 | Design Website for CSE dept <br> using HTML and CSS| N/A |
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
-|<mark>Midterm Lab 1 </mark>| 10% | <mark>11 Mar 25 (10.00am) </mark>| HTML and CSS | Class Lectures|
+|<mark>Midterm Lab 1 </mark>| 10% | <mark>11 Mar 25 (10.00am) </mark>| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
 |Assignment 2 | 8% | TBA | Full Stack Technology |TBA|
 |Quiz exam 2 | 5% | TBA |  Backend Technology |TBA|
