@@ -28,9 +28,9 @@ Exams
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Homework 1| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework%201/Homework%201_HTML.pdf)|
+|Homework 1| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%201/Homework%201_HTML.pdf)|
 |Homework 2| - | 11 Mar 25 | Design Website for CSE dept <br> using HTML and CSS| N/A |
-|Homework 3| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework%203/Homework3_CV.pdf)|
+|Homework 3| - | 24 Feb 25 | Design a Personal Portfolio using HTML & CSS | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_CV.pdf)|
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
 |<mark>Midterm Lab 1 </mark>| 10% | <mark>11 Mar 25 (10.00am) </mark>| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
