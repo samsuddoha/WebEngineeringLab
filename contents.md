@@ -32,7 +32,7 @@ Exams
 |Homework 2| - | 11 Mar 25 | Design Website for CSE dept <br> using HTML and CSS| N/A |
 |<mark>Homework 3</mark>| - | 27 Apr 25 | **P1:** Design a Personal Portfolio using HTML & CSS <br> <b>P2:</b>  Design a web page as similar in the attached file [Problem 2]| [Problem 1](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem1_CV.pdf) <br> [Problem 2](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem2.pdf)|
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
-|Midterm Lab 1 | 10% | <mark>11 Mar 25 (10.00am) </mark>| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
+|Midterm Lab 1 | 10% | 11 Mar 25 (10.00am)| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
 |Assignment 2 | 8% | TBA | Full Stack Technology |TBA|
 |Quiz exam 2 | 5% | TBA |  Backend Technology |TBA|
