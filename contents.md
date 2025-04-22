@@ -20,7 +20,7 @@
 | <b>Lecture 1 </b>| 2 |<ul> <li>Introduction to CSS </li> <li>How to add CSS</li> <li> CSS Syntax</li> <li>CSS Selectors</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%201/CSS%20Lecture%201.pdf)   |
 | <b>Lecture 2 </b>| 2 |<ul> <li>CSS Box Model</li> <li>CSS Marging, Border & Padding</li> <li> CSS Height, Width & max-width</li> <li>CSS Outline</li> <li>CSS Font, Text, Font Family, Google Font</li> <li>CSS List</li><li>CSS Table</li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%202/CSS%20Lecture%202.pdf) <br> [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/CSS/Lecture%202/CSS_Lec2)   |
 | <b>Lecture 3 </b>| 2 |<ul> <li>CSS List</li><li>CSS Table</li> <li> Image & Image Gallery </li> <li> CSS design Practice </li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%203/CSS%20Lecture%203.pdf) <br> [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/CSS/Lecture%203/css_lec3)   |
-|<mark> **Lecture 4** </mark>| 2 |<ul> <li>CSS Display</li><li>CSS Position</li> <li> Overflow, z-index, Float </li>  </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%204/CSS%20Lecture%204.pdf)  |
+|**Lecture 4**| 2 |<ul> <li>CSS Display</li><li>CSS Position</li> <li> Overflow, z-index, Float </li>  </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%204/CSS%20Lecture%204.pdf)  |
 
 
 Exams
@@ -30,7 +30,7 @@ Exams
 |-----------|-------|-----------------|------------|---------|
 |Homework 1| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%201/Homework%201_HTML.pdf)|
 |Homework 2| - | 11 Mar 25 | Design Website for CSE dept <br> using HTML and CSS| N/A |
-|Homework 3| - | TBA | Design a Personal Portfolio using HTML & CSS | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_CV.pdf)|
+|<mark>Homework 3</mark>| - | 27 Apr 25 | **P1:** Design a Personal Portfolio using HTML & CSS <br> <b>P2:</b>  Design a web page as similar in the attached file [Problem 2]| [Problem 1](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem1_CV.pdf) <br> [Problem 2](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem2.pdf)|
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
 |<mark>Midterm Lab 1 </mark>| 10% | <mark>11 Mar 25 (10.00am) </mark>| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
