@@ -22,6 +22,14 @@
 | <b>Lecture 3 </b>| 2 |<ul> <li>CSS List</li><li>CSS Table</li> <li> Image & Image Gallery </li> <li> CSS design Practice </li> </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%203/CSS%20Lecture%203.pdf) <br> [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/CSS/Lecture%203/css_lec3)   |
 |**Lecture 4**| 2 |<ul> <li>CSS Display</li><li>CSS Position</li> <li> Overflow, z-index, Float </li>  </ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/CSS/Lecture%204/CSS%20Lecture%204.pdf)  |
 
+ PHP Contents
+---
+
+| Lectures and Topics | No of Sessions | Contents | Resources |
+|---------------------|----------------|----------|-----------|
+| <b>Lecture 1 </b>| 6 |<ul> <li>Introduction to PHP </li> <li>Environment Setup</li> <li> PHP Syntax</li> <li>PHP Output (Echo/print), Comments </li> <li>Variables, Data Types, Operators </li> <li> Conditional statement,Loop Statement</li> <li> Array, Functions</li></ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/PHP-Lecture%20%20Basic.pdf)   |
+
+
 
 Exams
 ---
