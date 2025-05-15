@@ -28,7 +28,7 @@
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
 | <b>Lecture 1 <br> (Basic of PHP)</b>| 6 |<ul> <li>Introduction to PHP </li> <li>Environment Setup</li> <li> PHP Syntax</li> <li>PHP Output (Echo/print), Comments </li> <li>Variables, Data Types, Operators </li> <li> Conditional statement,Loop Statement</li> <li> Array, Functions</li></ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/PHP-Lecture%20%20Basic.pdf)   |
-| <b>Lecture 2 <br> (Exercises)</b>| 4 |<ul>All basic</ul>   | [Code](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/PHP-Lecture%20%20Basic.pdf)   |
+| <b>Lecture 2 <br> (Exercises)</b>| 4 |<ul> <li>All basic </li> <li> PHP Homework </li></ul>   | [Homework](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/Exercises/PHP_Homework.pdf) [code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/PHP/Exercises)   |
 
 
 
