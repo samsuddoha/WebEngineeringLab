@@ -28,7 +28,7 @@
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
 | <b>Lecture 1 <br> (Basic of PHP)</b>| 6 |<ul> <li>Introduction to PHP </li> <li>Environment Setup</li> <li> PHP Syntax</li> <li>PHP Output (Echo/print), Comments </li> <li>Variables, Data Types, Operators </li> <li> Conditional statement,Loop Statement</li> <li> Array, Functions</li></ul>   | [Slide](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/PHP-Lecture%20%20Basic.pdf)   |
-| <b>Lecture 2 <br> (Exercises)</b>| 4 |<ul> <li>All basic </li> <li> PHP Homework </li></ul>   | [Homework](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/Exercises/PHP_Homework.pdf) <br>[code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/PHP/Exercises)   |
+| <b>Lecture 2 <br> (Exercises)</b>| 2 |<ul> <li>All basic </li> <li> PHP Homework </li></ul>   | [Homework](https://github.com/samsuddoha/WebEngineeringLab/blob/main/PHP/Exercises/PHP_Homework.pdf) <br>[code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/PHP/Exercises)   |
 | <b>Lecture 3 <br> (Working with Form)</b>| 4 |<ul> <li>Working With Form (HTML Form+PHP) </li> <li> DB Connection </li> <li>Insert Data from form to DB</li></ul>   | [Code](https://github.com/samsuddoha/WebEngineeringLab/tree/main/PHP/Lecture_3)   |
 
 
@@ -40,13 +40,13 @@ Exams
 |-----------|-------|-----------------|------------|---------|
 |Homework 1| - | 24 Feb 25 | Design Webpages using HTML | [Instructions](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%201/Homework%201_HTML.pdf)|
 |Homework 2| - | 11 Mar 25 | Design Website for CSE dept <br> using HTML and CSS| N/A |
-|<mark>Homework 3</mark>| - | 27 Apr 25 | **P1:** Design a Personal Portfolio using HTML & CSS <br> <b>P2:</b>  Design a web page as similar in the attached file [Problem 2]| [Problem 1](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem1_CV.pdf) <br> [Problem 2](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem2.pdf)|
+|Homework 3| - | 27 Apr 25 | **P1:** Design a Personal Portfolio using HTML & CSS <br> <b>P2:</b>  Design a web page as similar in the attached file [Problem 2]| [Problem 1](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem1_CV.pdf) <br> [Problem 2](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem2.pdf)|
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
 |Midterm Lab 1 | 10% | 11 Mar 25 (10.00am)| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
 |Assignment 2 | 8% | TBA | Full Stack Technology |TBA|
 |Quiz exam 2 | 5% | TBA |  Backend Technology |TBA|
-|Midterm Lab  2 | 10% | 25 May 25 | Full Stack Technology |CRUD|
+|<mark>Midterm Lab  2 | 10% | 25 May 25 | Full Stack Technology </mark>|CRUD|
 |Final Exam  | 25% | TBA | Full Stack Technology |TBA|
 |Viva | 5% | TBA | Web technology |TBA|
 |Project| 20% | TBA | Web Project based on Full Stack Technology|TBA|
