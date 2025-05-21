@@ -46,7 +46,7 @@ Exams
 |Assignment 1 | 7% | TBA | Frontend Technology |TBA|
 |Assignment 2 | 8% | TBA | Full Stack Technology |TBA|
 |Quiz exam 2 | 5% | TBA |  Backend Technology |TBA|
-|<mark>Midterm Lab  2 | 10% | 25 May 25 | Full Stack Technology </mark>|CRUD|
+|<mark>Midterm Lab  2 </mark>| 10% | <label style="color: red; font-weight:bold;">25 May 25 </label>| Full Stack Technology|CRUD|
 |Final Exam  | 25% | TBA | Full Stack Technology |TBA|
 |Viva | 5% | TBA | Web technology |TBA|
 |Project| 20% | TBA | Web Project based on Full Stack Technology|TBA|
