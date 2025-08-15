@@ -43,8 +43,8 @@ Exams
 |Homework 3| - | 27 Apr 25 | **P1:** Design a Personal Portfolio using HTML & CSS <br> <b>P2:</b>  Design a web page as similar in the attached file [Problem 2]| [Problem 1](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem1_CV.pdf) <br> [Problem 2](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Homework/Homework%203/Homework3_Problem2.pdf)|
 |Quiz Exam 1 | 5% | 24 Feb 25 | HTML Lecture 1 to 4 | N/A|
 |Midterm Lab 1 | 10% | 11 Mar 25 (10.00am)| HTML and CSS | Questions: [SET A](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-A_Web%20Mid%20exam.pdf) & [SET B](https://github.com/samsuddoha/WebEngineeringLab/blob/main/Exam/Mid%20Exam%201/SET-B_Web%20Mid%20Exam%201.pdf)|
-|Assignment 1 | 7% | TBA | Frontend Technology |TBA|
-|Assignment 2 | 8% | TBA | Full Stack Technology |TBA|
+|Assignment 1 <br> (Front-End Tech) | 10% | 20 Aug 25 (11.59pm) | Design a Webiste for CSE department. Follow the instruction. |[Current CSE Website](https://apps.piit.us/barishal-university/v2/department/department-of-computer-science-and-engineering) <br> [Instructions]() <br> [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScowx2sxze22PsWkx4KLnZfPz9rMOFP90XxdfsxSBUD5fUjJw/viewform?usp=sharing&ouid=113615615478572276576)|
+|Assignment 2 | NA | TBA | Full Stack Technology |TBA|
 |Quiz exam 2 | 5% | TBA |  Backend Technology |TBA|
 |<mark>Midterm Lab  2 </mark>| 10% | **25 May 25**| Full Stack Technology|CRUD|
 |Final Exam  | 25% | TBA | Full Stack Technology |TBA|
